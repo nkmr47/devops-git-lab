@@ -1,5 +1,6 @@
 filters:
   - name: status
     values: [a, in]
+    values: [act, inact]
   - name: priority
     values: [high, medium, low]
